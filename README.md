@@ -1,5 +1,5 @@
-**雞隻異常眼睛辨識模型**
-  
+###雞隻異常眼睛辨識模型
+##Chicken_eyes_detect
 此模型能夠將照片中的雞眼睛自動辨識出來  
 並且分成兩種，0為正常雞眼睛(輸出標註框為紅色)，1為異常雞眼睛(標註框為綠色)
   
@@ -16,5 +16,8 @@
 6. 執行python chicken_test.py  
 7. 辨識結果的照片將存在"result"資料夾中  
 
-模型可視化展示如下圖:  
+##模型可視化展示如下圖:  
 ![68](https://hackmd.io/_uploads/SkYTM229A.jpg)
+
+## Acknowledgements
+https://github.com/WongKinYiu/yolov7/
